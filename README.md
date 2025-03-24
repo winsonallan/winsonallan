@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I'm currently working as a Full Stack Web Developer in a company located at Banten, Indonesia.
+My current tech stack:
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 <!--
 **winsonallan/winsonallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
